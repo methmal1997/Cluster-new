@@ -1,1 +1,5 @@
-{"name": "K Means", "time": 0.9730727672576904, "f1_score": 0.12846100310743264, "adjusted_rand_score": 0.014955400721634485, "silhouette_score": 0.10946609693294053}{"name": "Agglomerative", "time": 4.098220109939575, "f1_score": 0.10957578045645362, "adjusted_rand_score": 0.2083382607113123, "silhouette_score": 0.07290182667243492}{"name": "GaussianMixture", "time": 11.311506271362305, "f1_score": 0.17131695939257607, "adjusted_rand_score": 0.03123068464705374, "silhouette_score": 0.10681632088186395}
+{"name": "K Means", "time": 0.9730727672576904, "f1_score": 0.12846100310743264, "adjusted_rand_score": 0.014955400721634485, "silhouette_score": 0.10946609693294053}
+{"name": "Agglomerative", "time": 4.098220109939575, "f1_score": 0.10957578045645362, "adjusted_rand_score": 0.2083382607113123, "silhouette_score": 0.07290182667243492}
+{"name": "GaussianMixture", "time": 11.311506271362305, "f1_score": 0.17131695939257607, "adjusted_rand_score": 0.03123068464705374, "silhouette_score": 0.10681632088186395}
+{"name": "self", "time": 1.4899942874908447, "f1_score": 0.23974071167990427, "adjusted_rand_score": 0.06541961953483692, "silhouette_score": 0.06541961953483692}
+{"name": "self", "time": 8.900348424911499, "f1_score": 0.23974071167990427, "adjusted_rand_score": 0.06541961953483692, "silhouette_score": 0.06541961953483692}
